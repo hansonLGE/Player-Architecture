@@ -1,0 +1,2 @@
+# Player-Architecture
+这是一个关于播放器解决方案的分析。android系统播放器nuplayer源码分析，以及ffmpeg3.4相关接口使用。具有如何使用ffmpeg设计一个合理播放器，请参考另一个ffmpeg项目源码。
